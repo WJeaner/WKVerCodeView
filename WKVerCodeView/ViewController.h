@@ -2,7 +2,7 @@
 //  ViewController.h
 //  WKVerCodeView
 //
-//  Created by dev on 2017/5/11.
+//  Created by Jeaner on 2017/5/11.
 //  Copyright © 2017年 dev. All rights reserved.
 //
 
